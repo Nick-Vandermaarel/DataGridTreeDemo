@@ -8,5 +8,5 @@ This code is by no means complete. I just updated the code to be opened in VS 20
 
 Updated on 2019-03-25
 
-Ex)
-![DataGrid Tree example](https://github.com/NickVandermaarel/datagridtreedemo/master/Ex/dg_tree_ex.PNG)
+Ex)  
+![DataGrid Tree example](/Ex/dg_tree_ex.PNG)
